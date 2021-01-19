@@ -37,7 +37,7 @@
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-plugin-react": "7.11.1",
     "husky": "0.13.3",
-    "semantic-release": "^6.3.6",
+    "semantic-release": "^17.2.3",
     "standard": "10.0.2",
     "validate-commit-msg": "2.12.1"
   },
